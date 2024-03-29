@@ -1,1 +1,1 @@
-# Make-Note-MERN-App-
+# Make-Note (MERN-App)
